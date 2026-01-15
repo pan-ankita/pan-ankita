@@ -1,11 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact<br>
+🔭 I’m currently working on improving myself (😂)<br>
+<!-- 👯 I’m looking to collaborate on<br> -->
+<!-- 🤝 I’m looking for help with<br> -->
+🌱 I’m currently learning C & Python<br>
+<!-- 💬 Ask me about<br> -->
+⚡ Fun fact: I love dogs🐕 <br>
 😄 Pronouns: she/her
 
 ## 🌐 Socials:
