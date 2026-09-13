@@ -1,6 +1,6 @@
 ## Hi there, I'm Ankita 👋
 # 💫 About Me:
-🎓 BTech in CSE
+🎓 BTech in CSE <br>
 🌱 I’m currently learning Full Stack Development <br>
 🔭 I’m currently working on improving myself (😂)<br>
 ⚡ Fun fact: I love dogs🐕 <br>
